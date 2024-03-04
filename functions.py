@@ -7,10 +7,16 @@ def add_contacts():
   contact["email"] = str(input("Enter the email: "))
 
   contacts.append(contact)
-  print("Your contact has been added successfully!")
+  print("\nYour contact has been added successfully!")
 
 def show_contacts():
-    pass
+  print('Added contacts:')
+  for i, contact in enumerate(contacts, start=1):
+    print(f"\nContact {i}:")
+    print("Name:", contact["name"])
+    print("Number:", contact["number"])
+    print("Email:", contact["email"])
+    print("Favorited?:", "No" if contact["favorite"] == False else "Yes")
 
 def edit():
    pass

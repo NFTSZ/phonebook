@@ -1,3 +1,5 @@
+from functions import *
+
 print('Welcome to your phone book.')
 
 while True:
@@ -16,3 +18,7 @@ while True:
   if option == 7:
     print('Thanks for using.')
     break
+  elif option == 1:
+    add_contacts()
+  elif option == 2:
+    show_contacts()
