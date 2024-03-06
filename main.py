@@ -21,5 +21,13 @@ while True:
   elif option == 1:
     add_contacts()
   elif option == 2:
-    show_contacts()
-
+    show_all_contacts()
+  elif option == 3:
+    edit_contacts()
+  elif option == 4:
+    favorite_contacts()
+  elif option == 5:
+    view_favorite_list()
+  elif option == 6:
+    delete_contacts()
+    
