@@ -22,3 +22,4 @@ while True:
     add_contacts()
   elif option == 2:
     show_contacts()
+
