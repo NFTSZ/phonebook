@@ -22,4 +22,9 @@ while True:
     add_contacts()
   elif option == 2:
     show_contacts()
-
+  elif option == 3:
+    edit_contacts()
+  elif option == 3:
+    favorite_contacts()
+  elif option == 3:
+    delete_contacts()
