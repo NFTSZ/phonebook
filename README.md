@@ -25,19 +25,19 @@ Welcome to the Phone Book Management System! This is a simple command-line appli
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/phone-book.git
+   git clone https://github.com/your-username/phonebook.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd phone-book
+   cd phonebook
    ```
 
 3. Run the `phone_book.py` script:
 
    ```bash
-   python phone_book.py
+   python phonebook.py
    ```
 
 4. Follow the on-screen prompts to perform various operations on your contacts.
