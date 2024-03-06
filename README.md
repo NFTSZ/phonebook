@@ -6,7 +6,6 @@ Welcome to the Phone Book Management System! This is a simple command-line appli
 <div align="center">
   
 ![image](https://github.com/NFTSZ/phonebook/assets/104385507/94411e60-7bb6-4dfb-8dd5-3dac45f93c2c)
-![image](https://github.com/NFTSZ/phonebook/assets/104385507/694baac1-fa1a-4971-9f93-f9098efc8720)
 
 </div>
 
