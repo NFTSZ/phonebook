@@ -24,7 +24,7 @@ while True:
     show_contacts()
   elif option == 3:
     edit_contacts()
-  elif option == 3:
+  elif option == 4:
     favorite_contacts()
-  elif option == 3:
+  elif option == 5:
     delete_contacts()
